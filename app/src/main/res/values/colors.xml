@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_blue">#1976D2</color>
+    <color name="primary_blue_dark">#0D47A1</color>
+    <color name="primary_blue_light">#E3F2FD</color>
+    <color name="blue_button_pressed">#1565C0</color>
+
+    <color name="accent_star">#FFA000</color>
+    <color name="danger_red">#D32F2F</color>
+    <color name="danger_red_pressed">#B71C1C</color>
+
+    <color name="background_light">#F5F5F5</color>
+    <color name="card_white">#FFFFFF</color>
+    <color name="border_light">#E0E0E0</color>
+
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#9E9E9E</color>
+    <color name="text_white">#FFFFFF</color>
+
+    <color name="avatar_blue">#1976D2</color>
+    <color name="avatar_cyan">#0288D1</color>
+    <color name="avatar_indigo">#303F9F</color>
+    <color name="avatar_teal">#00897B</color>
+    <color name="avatar_orange">#F57C00</color>
+</resources>
